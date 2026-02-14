@@ -3,6 +3,7 @@ title: Building an Interpreter from Scratch - Monkey
 tags:
   - programming-languages
   - monkey
+status: archive
 date: 1/14/25
 ---
 - Building to parse and evaluate our own language called Monkey.
