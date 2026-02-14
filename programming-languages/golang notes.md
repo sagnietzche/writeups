@@ -4,6 +4,7 @@ date: 8/2/25
 tags:
   - boot-dev
   - golang
+status: archive
 ---
 
 ### Variables:
